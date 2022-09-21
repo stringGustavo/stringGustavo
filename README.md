@@ -8,8 +8,4 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gus5.56)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=stringGustavo&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
----
 [![](https://visitcount.itsvg.in/api?id=stringGustavo&icon=2&color=1)](https://visitcount.itsvg.in)
