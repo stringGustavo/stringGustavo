@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">
 </div>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=2000&color=F7F7F7&width=435&lines=System.out.println(%22Hello+World!%22);Console.WriteLine(%22Hello+World!%22);%3Ch1%3EHello+World!%3C%2Fh1%3E" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=500&pause=2000&color=F7F7F7&width=435&lines=System.out.println(%22Hello+World!%22);console.log(%22Hello+World!%22);Console.WriteLine(%22Hello+World!%22);%3Ch1%3EHello+World!%3C%2Fh1%3E" alt="Typing SVG" /></a>
 
 ### 🛠Tools/IDE:
 <div>
