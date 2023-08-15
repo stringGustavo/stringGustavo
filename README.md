@@ -2,8 +2,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=272b33&height=180&section=header&text=Welcome+To+My+Profile!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=stringGustavo&show_icons=true&count_private=true&hide_border=true&title_color=525964&icon_color=525964&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stringGustavo&layout=full&hide_border=true&title_color=525964&text_color=525964&bg_color=0d1117" />
+  
+  <img width="50%" height="195px" src="https://github-stats-alpha.vercel.app/api?username=stringGustavo&cc=000&tc=fff&ic=fff&bc=000&layout=full&hide_border=true&title_color=525964&text_color=525964&bg_color=0d1117" />
 </div>
 
 ---
