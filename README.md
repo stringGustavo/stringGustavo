@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/-jquery-0D1117?style=for-the-badge&logo=jquery&logoColor=f7df1e&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/-jquery-0D1117?style=for-the-badge&logo=jquery&logoColor=1572B6&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=#AEB2D5&labelColor=0D1117">
 </div>
 
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=1976d2&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-powerbi-0D1117?style=for-the-badge&logo=powerbi&logoColor=f7df1e&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117">
 
 </div>
 
