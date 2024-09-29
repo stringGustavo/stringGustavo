@@ -9,7 +9,7 @@
 ---
 ### 🖥Learning:
 <div align="left">
-  <img src="https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=green&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=dotnet&logoColor=green&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=openjdk&logoColor=1572B6&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&logoColor=00FF7F&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117">
