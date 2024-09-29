@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-jquery-0D1117?style=for-the-badge&logo=jquery&logoColor=1572B6&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=#AEB2D5&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=0D1117">
 </div>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=500&pause=2000&color=F7F7F7&width=435&lines=System.out.println(%22Hello+World!%22);console.log(%22Hello+World!%22);echo+%22Hello+World!%22;Console.WriteLine(%22Hello+World!%22);%3Ch1%3EHello+World!%3C%2Fh1%3E" alt="Typing SVG" /></a>
