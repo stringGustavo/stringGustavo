@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-intellij-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/-rider-0D1117?style=for-the-badge&logo=rider&logoColor=white&labelColor=0D1117">
 
 </div>
 
