@@ -26,11 +26,10 @@
 <div>
   <img src="https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=652076&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=1976d2&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/-powerbi-0D1117?style=for-the-badge&logo=powerbi&logoColor=f7df1e&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-intellij-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-rider-0D1117?style=for-the-badge&logo=rider&logoColor=white&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0D1117">
 
 </div>
 
